@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163929579986",
+    "project_id": "reci-p-project-1a6c0",
+    "storage_bucket": "reci-p-project-1a6c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163929579986:android:495bc58f19bbf686f5280b",
+        "android_client_info": {
+          "package_name": "com.example.reci_p"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClqYQgpEd5K8pJXrep9mUQxdMFIXMDxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

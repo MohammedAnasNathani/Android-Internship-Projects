@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719832097477",
+    "project_id": "exclusive-now",
+    "storage_bucket": "exclusive-now.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719832097477:android:4180f927023226dc3386ac",
+        "android_client_info": {
+          "package_name": "com.exclusivenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9K36Nazg5PS7xdDfWa9R-TUERjSo8sUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

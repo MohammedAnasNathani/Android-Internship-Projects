@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExclusiveNow</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="default_web_client_id">AIzaSyD9K36Nazg5PS7xdDfWa9R-TUERjSo8sUc</string>
+    <string name="fake_news_warning_severe">Warning: This news source is known for publishing inaccurate or misleading information.</string>
+    <string name="fake_news_disclaimer">Disclaimer: Fake news detection is not perfect.  This assessment is based on available information and should not be the sole factor in judging the article\'s accuracy.</string>
+    <string name="accuracy_score">Accuracy: %1$d%%</string>
+    <string name="high_accuracy">High Accuracy</string>
+    <string name="moderate_accuracy">Moderate Accuracy</string>
+    <string name="potential_fake_news">Potential for Fake News</string>
+    <string name="real">Real</string>
+    <string name="potentially_fake">Potentially Fake</string>
+    <string name="sort_newest">Newest First</string>
+    <string name="sort_oldest">Oldest First</string>
+
+</resources>

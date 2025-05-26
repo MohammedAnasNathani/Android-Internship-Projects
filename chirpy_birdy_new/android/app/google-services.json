@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802543849371",
+    "project_id": "chirpybirdy-1a538",
+    "storage_bucket": "chirpybirdy-1a538.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802543849371:android:f09426a1e6c1d6837adb3e",
+        "android_client_info": {
+          "package_name": "com.example.chirpy_birdy_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PLFOcfsu61Wfs39i32tIKIeTUzx5HuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

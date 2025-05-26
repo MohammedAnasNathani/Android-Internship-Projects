@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#C7A4FF</color>
+    <color name="purple_500">#9575CD</color>
+    <color name="purple_700">#65499C</color>
+    <color name="purple_900">#432865</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorSurfaceLight">#F8F8F8</color>
+    <color name="colorPrimaryVariantLight">#797979</color>
+    <color name="textColorPrimaryLight">#DE000000</color>
+    <color name="textColorSecondaryLight">#99000000</color>
+    <color name="accentColorLight">#007BFF</color>
+
+    <color name="colorOnPrimaryLight">#FFFFFF</color>
+    <color name="colorOnSecondaryLight">#FFFFFF</color>
+    <color name="colorOnSurfaceLight">#DE000000</color>
+
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorSurfaceDark">#222222</color>
+    <color name="colorPrimaryVariantDark">#37474F</color>
+    <color name="textColorPrimaryDark">#FFFFFFFF</color>
+    <color name="textColorSecondaryDark">#B3FFFFFF</color>
+    <color name="accentColorDark">#64B5F6</color>
+
+    <color name="colorOnPrimaryDark">#FFFFFF</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="colorOnSurfaceDark">#FFFFFFFF</color>
+
+    <color name="light_gray">#F5F5F5</color>
+
+    <color name="light_background">#F5F5F5</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_on_surface">#DE000000</color>
+    <color name="light_tab_text">#DE000000</color>
+    <color name="light_tab_selected_text">#FFFFFF</color>
+    <color name="light_tab_indicator">#007BFF</color>
+    <color name="light_toolbar_icon">#DE000000</color>
+
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#222222</color>
+    <color name="dark_on_surface">#FFFFFFFF</color>
+    <color name="dark_tab_text">#B3FFFFFF</color>
+    <color name="dark_tab_selected_text">#FFFFFF</color>
+    <color name="dark_tab_indicator">#64B5F6</color>
+    <color name="dark_toolbar_icon">#FFFFFF</color>
+
+    <color name="gray">#808080</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+</resources>

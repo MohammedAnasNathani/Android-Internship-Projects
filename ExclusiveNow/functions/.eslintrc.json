@@ -1,0 +1,19 @@
+{
+  "extends": "eslint-config-google",
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "script"
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "quotes": ["error", "double", { "allowTemplateLiterals": true }],
+    "comma-dangle": ["error", "always-multiline"],
+    "max-len": ["error", { "code": 120 }],
+    "require-jsdoc": "off", // Optional: Disable JSDoc requirement
+    "object-curly-spacing": ["error", "always"] // Add object curly spacing rule
+  }
+}
