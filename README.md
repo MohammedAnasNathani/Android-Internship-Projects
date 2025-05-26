@@ -4,7 +4,7 @@ An app that displays a birthday cake GIF and your birthdate. On button press, th
 ---
 
 ### 🧮 Secret Code Calculator
-A basic calculator with clean UI that hides a secret message when specific number combinations are entered.
+A basic calculator with clean UI that reveals a secret message when specific number combinations are entered.
 
 ---
 
